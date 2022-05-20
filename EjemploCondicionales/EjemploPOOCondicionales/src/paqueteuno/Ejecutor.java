@@ -119,7 +119,8 @@ public class Ejecutor {
                             hosp3.obtenerNumeroDoctores(),
                             hosp3.obtenerPresupuestoAnual());
                 } else {
-                    System.out.println("Opción fuera de rango");
+                    System.out.println("Opción fuera de rango");}
+                    System.out.println();
                 }
             }
         }
